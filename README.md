@@ -56,12 +56,14 @@ The trained model files used in the project:
 
 ## Project Structure
 
+```
 Crop-Recommendation-System-using-ML
 │
 ├── app.py
 ├── model.pkl
 ├── minmaxscaler.pkl
 ├── standscaler.pkl
+│
 ├── dataset
 │   └── Crop_recommendation.csv
 │
@@ -79,8 +81,7 @@ Crop-Recommendation-System-using-ML
 │   └── logo.png
 │
 └── README.md
-
----
+```
 
 ## Installation
 
